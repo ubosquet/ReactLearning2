@@ -1,0 +1,68 @@
+{
+	"folders": [
+		{
+			"path": "L01HandsOn"
+		},
+		{
+			"path": "react-lesson-one"
+		},
+		{
+			"path": "ReactL02"
+		},
+		{
+			"path": "L02HandsOn"
+		},
+		{
+			"path": "ReactL03"
+		},
+		{
+			"path": "L03HandsOn"
+		},
+		{
+			"path": "ReactL04"
+		},
+		{
+			"path": "L04HandsOn"
+		},
+		{
+			"path": "ReactL05"
+		},
+		{
+			"path": "ReactRouter"
+		},
+		{
+			"path": "L05HandsOn"
+		},
+		{
+			"path": "L06HandsOn"
+		},
+		{
+			"path": "ReactL07"
+		},
+		{
+			"path": "L07HandsOn"
+		},
+		{
+			"path": "TODO-LIST"
+		},
+		{
+			"path": "ReactL08"
+		},
+		{
+			"path": "L08HandsOn"
+		},
+		{
+			"path": "ReactL09"
+		},
+		{
+			"path": "ReactReduxHttp"
+		},
+		{
+			"path": "L09HandsOn"
+		},
+		{
+			"path": "L10HandsOn"
+		}
+	],
+	"settings": {}
+}
